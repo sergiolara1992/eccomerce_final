@@ -1,0 +1,156 @@
+{
+    "1": {
+        "name": "cafeteria",
+        "description": "el cafe mas puro de la region",
+        "banner": "",
+        "stars": "",
+        "schedule": "",
+        "logo": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676653964/tcrdbincllm1gnuhuclo.jpg",
+        "food-categories": [
+            "cafe",
+            "reposteria"
+        ],
+        "menu": [
+            {
+                "idItem": "1",
+                "name": "sanduche",
+                "description": " Emparedado hecho con dos rebanadas de pan de molde entre las que se coloca jamón, queso, embutido, vegetales u otros alimentos",
+                "price": "11.000",
+                "image": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676905101/descarga_klxjgy.jpg",
+                "category": "Burger",
+                "cookingTime": "5-15 minutos"
+            },
+            {
+                "idItem": "2",
+                "name": "capuccino",
+                "description": "cafe expreso y leche montada con vapor para darle cremocidad",
+                "price": "7.000",
+                "image": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676905264/bebida-c-cappuccino_smwmqb.jpg",
+                "category": "Soup",
+                "cookingTime": "10-15 minutos"
+            },
+            {
+                "idItem": "3",
+                "name": "palito de queso",
+                "description": "masa de harina de trigo frita, rellena de queso blanco",
+                "price": "5.000",
+                "image": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676905709/PalitoQueso_jkwrfw.jpg",
+                "category": "Burger",
+                "cookingTime": "5-15 minutos"
+            },
+            {
+                "idItem": "4",
+                "name": "sopa de verduras",
+                "description": "El sabor de esta sopa es enriquecido por las menudencias o piezas de pollo. la receta lleva un total de 8 diferentes vegetales",
+                "price": "12.000",
+                "image": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676905804/Vegetable-Soup-Recipe_icnjdn.jpg",
+                "category": "sopa",
+                "cookingTime": "10-15 minutos"
+            }
+        ]
+    },
+    "2": {
+        "name": "frisby",
+        "description": "un restaurante de pollos",
+        "banner": "",
+        "stars": "",
+        "schedule": "",
+        "logo": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676653989/images_sg0quz.jpg",
+        "food-categories": [
+            "pizza",
+            "hamburger",
+            "salad"
+           
+        ],
+        "menu": [
+            {
+                "idItem": "1",
+                "name": "pollo familiar",
+                "description": "9 presas de pollo 2 alas, 2 piernas, 2 costillas, 2 contramuslos, 1 pechuga, papa francesa",
+                "price": "80.000",
+                "image": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676906091/Pollo-Familiar-BBQ_veep0n.png",
+                "category": "Wings",
+                "cookingTime": "30-40 minutos"
+            },
+            {
+                "idItem": "2",
+                "name": "combo especial",
+                "description": "combo familiar con helado y gaseosa",
+                "price": "70000",
+                "image": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676906108/combo_fritoj3-scaled_kqhqpm.jpg",
+                "category": "Wings",
+                "cookingTime": "30-45 minutos"
+            },
+            {
+                "idItem": "3",
+                "name": "ensalada cesar",
+                "description": "ensalada de lechuga romana y croutons(trozos de pan tostado) con jugo de limon, aceite de oliva, huevo, y queso parmesano",
+                "price": "15000",
+                "image": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676906102/images_rmmdle.jpg",
+                "category": "Salad",
+                "cookingTime": "25-30 minutos"
+            },
+            {
+                "idItem": "4",
+                "name": "hamburguesa de pollo",
+                "description": "hamburguesa con pollo, tocineta, queso mozarella acompañada de nuestra salsa de la casa",
+                "price": "18000",
+                "image": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676906161/Hamburguesa-de-pollo-casera_won81e.jpg",
+                "category": "Burger",
+                "cookingTime": "15-25 minutos"
+            }
+        ]
+    },
+    "3": {
+        "name": "il forno",
+        "description": "restaurante italiano",
+        "banner": "",
+        "stars": "",
+        "schedule": "",
+        "logo": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676653901/asientos-al-aire-libre-en-un-restaurante-italiano-pga1wj_q4knbm.jpg",
+        "food-categories": [
+            "pasta",
+            "sopa",
+            "burger"
+        ],
+        "menu": [
+            {
+                "idItem": "1",
+                "name": "sopa e fagioli",
+                "description": "sopa italiana tradicional que utiliza mini pasta, salchichas y verduras en un caldo a base de tomate",
+                "price": "25000",
+                "image": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676906648/sopa_wocwa0.jpg",
+                "category": "sopa",
+                "cookingTime": "20-25 minutos"
+            },
+            {
+                "idItem": "2",
+                "name": "pizza napolitana",
+                "description": "pizza con corteza delgadita y suave. Va cubierta con salsa de tomate, queso mozzarella fresco y albahaca",
+                "price": "30000",
+                "image": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676906659/pizza_napolitana_32625_orig_r6ekec.jpg",
+                "category": "Pizza",
+                "cookingTime": "30-35 minutos"
+            },
+            {
+                "idItem": "3",
+                "name": "raviolis de queso",
+                "description": "pastas cuadraditas y rellenas de todo el sabor del queso, con salsa blanca o con una salsa roja con tomate y albahaca",
+                "price": "27900",
+                "image": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676906670/raviolis-de-queso-ligero-2_yfljmc.jpg",
+                "category": "pasta",
+                "cookingTime": "35-45 minutos"
+            },
+            {
+                "idItem": "4",
+                "name": "hamburguesa italiana",
+                "description": "carne picada, rucula, unas hojas de albahaca y salsa de tomate",
+                "price": "22900",
+                "image": "https://res.cloudinary.com/dvugueqo4/image/upload/c_scale,h_145,w_206/v1676906680/hamburguesa_rcomzt.jpg",
+                "category": "Burger",
+                "cookingTime": "35-45 minutos"
+            }
+        ]
+    }
+}
+    

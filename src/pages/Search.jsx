@@ -1,0 +1,34 @@
+import Container from 'react-bootstrap/Container';
+import Form from 'react-bootstrap/Form';
+import Navbar from 'react-bootstrap/Navbar';
+
+
+
+function Search() {
+  return (
+    <div className="main">
+      <div className="w-full text-center bg-white h-screen flex flex-col max-w-md mx-auto p-5">
+        <Navbar>
+          <Container fluid>
+            <Navbar.Toggle aria-controls="navbarScroll" />
+            <Navbar.Collapse id="navbarScroll">
+              <Form className="d-flex">
+                <Form.Control
+                  type="search"
+                  placeholder="Search"
+                  className="me-2  m-10 pl-20 text-left  bg-slate-200"
+                  aria-label="Search"
+                  onClick={() => {
+                    console.log("holi");
+                  }}
+                />
+              </Form>
+            </Navbar.Collapse>
+          </Container>
+        </Navbar>
+      </div>
+    </div>
+  );
+}
+
+export default Search;
